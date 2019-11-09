@@ -58,7 +58,7 @@ Not mandatory but recommended
 - Fetch API
 - ES6+ (Arrow Functions, promises, async / await, destructuring)
 
-**at this point you are a basic front-end web developer, freelancing and basic projects is an option**
+**at this point you are a basic front-end web developer, freelancing and basic projects is an option(Estimate time to learn since beginning: 3 months)**
 
 ## Advanced Skills
 
@@ -101,7 +101,7 @@ For larger apps with a framework, you may need to learn methods to manage app-le
 ``To learn`` : 
     Immutable State, Stores, Reducers, Mutations, Getters, Actions, Observables.
 
-**at this point you are a Full Fledged front-end web developer, you can build incredible front-end applications,Smooth & Steady workflow, Work well with teams & familiar with Git, Connect to backend API's & work with data. A lot of Job oportunities(estimate time learn since beginning 6 months)**
+**at this point you are a Full Fledged front-end web developer, you can build incredible front-end applications,Smooth & Steady workflow, Work well with teams & familiar with Git, Connect to backend API's & work with data. A lot of Job oportunities(estimate time to learn since beginning: 6 months)**
 
 ## Backend ~(uwu)~
 
